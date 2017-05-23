@@ -1,5 +1,5 @@
 
-## The Road So Far
+## What you've learned at Flatiron
 - [X] Classes
 - [x] Arrays
 - [x] Dictionaries
@@ -56,7 +56,7 @@
 	- CloudKit provides authentication, a private and a public database, and structured asset storage services—so you can focus on client-side development.
 
 
-## The Road to come
+## Even more things to try out
 
 
 - [ ] [Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
