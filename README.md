@@ -28,11 +28,11 @@
 - [ ] [Core Motion](https://developer.apple.com/reference/coremotion)
 	- The Core Motion  framework lets your application receive motion data from device hardware and process that data. The framework supports accessing both raw and processed accelerometer data using Block object interfaces. For devices with a built-in gyroscope, you can retrieve the raw gyro data as well as processed data reflecting the attitude and rotation rates of the device. You can use both the accelerometer and gyro-based data for games or other apps that use motion as input or as a way to enhance the overall user experience.
 	
-- [ ] HealthKit
- - [Healthkit](https://developer.apple.com/healthkit/) can be used to develop health and fitness apps that work together. Adding HealthKit into your iOS and watchOS apps creates a more integrated user experience. When a customer provides permission for your app to read and write health and activity data to their Health app, your app can become a valuable health data source and it can use the shared data to bring more powerful health and fitness solutions.
+- [ ] [Healthkit](https://developer.apple.com/healthkit/)
+ -  Healthkit can be used to develop health and fitness apps that work together. Adding HealthKit into your iOS and watchOS apps creates a more integrated user experience. When a customer provides permission for your app to read and write health and activity data to their Health app, your app can become a valuable health data source and it can use the shared data to bring more powerful health and fitness solutions.
  
-- [ ] CoreImage
-	- [Core Image](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html) is an image processing and analysis technology designed to provide near real-time processing for still and video images. It operates on image data types from the Core Graphics, Core Video, and Image I/O frameworks, using either a GPU or CPU rendering path. Core Image hides the details of low-level graphics processing by providing an easy-to-use application programming interface (API)
+- [ ] [Core Image](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html)
+	- Core Image is an image processing and analysis technology designed to provide near real-time processing for still and video images. It operates on image data types from the Core Graphics, Core Video, and Image I/O frameworks, using either a GPU or CPU rendering path. Core Image hides the details of low-level graphics processing by providing an easy-to-use application programming interface (API)
 
 - [ ] [CoreGraphics](https://developer.apple.com/reference/coregraphics)
 	- The Core Graphics framework is based on the Quartz advanced drawing engine. It provides low-level, lightweight 2D rendering with unmatched output fidelity. You use this framework to handle path-based drawing, transformations, color management, offscreen rendering, patterns, gradients and shadings, image data management, image creation, and image masking, as well as PDF document creation, display, and parsing.
